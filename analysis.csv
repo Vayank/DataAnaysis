@@ -1,0 +1,32 @@
+
+TOTAL_CUSTOMERS,   CHURNED,  RETAINED,CHURN_RATE_PCT
+---------------,----------,----------,--------------
+             50,        22,        28,            44
+
+CONTRACT            , CUSTOMERS,   CHURNED,CHURN_RATE_PCT
+--------------------,----------,----------,--------------
+Month-to-month      ,        25,        22,            88
+Two year            ,        11,         0,             0
+One year            ,        14,         0,             0
+
+TENUREGROU, CUSTOMERS,   CHURNED,CHURN_RATE_PCT
+----------,----------,----------,--------------
+0-12      ,        19,        16,         84.21
+13-24     ,         9,         5,         55.56
+25-48     ,        12,         1,          8.33
+49+       ,        10,         0,             0
+
+CHU,AVG_MONTHLY, AVG_TOTAL
+---,-----------,----------
+No ,      68.36,    2894.6
+Yes,      72.84,    719.78
+
+INTERNETSERVICE     ,TECHSUPPOR, CUSTOMERS,   CHURNED,CHURN_RATE_PCT
+--------------------,----------,----------,----------,--------------
+Fiber optic         ,No        ,        22,        14,         63.64
+DSL                 ,No        ,        18,         8,         44.44
+DSL                 ,Yes       ,        10,         0,             0
+
+EST_MONTHLY_REVENUE_LOST
+------------------------
+                  1602.4
